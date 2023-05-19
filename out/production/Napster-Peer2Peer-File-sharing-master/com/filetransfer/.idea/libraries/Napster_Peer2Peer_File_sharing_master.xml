@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Napster-Peer2Peer-File-sharing-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/File_Transfer_P2P.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javax.ws.rs-api-2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
